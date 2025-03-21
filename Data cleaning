@@ -1,1 +1,7 @@
-
+remove duplicates
+do necessary standardization
+do some manual cleaning applying filters
+trim the names
+change the currency to numbers
+check dates for random number and different formats(short dates, long dates, use of - or / )
+delete unnecessary columns 
